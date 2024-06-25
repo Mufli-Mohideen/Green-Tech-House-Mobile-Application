@@ -80,7 +80,19 @@ Follow these instructions to set up and run the GreenTech House application on y
 - [Flutter Community](https://flutter.dev/community)
 - [Firebase Community](https://firebase.google.com/community)
 
-## Developed by
+## Contributing
 
-Mufli-Mohideen
+If you want to contribute to this project, please fork the repository and create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## Developed by Mufli-Mohideen
+
+</div>
 
