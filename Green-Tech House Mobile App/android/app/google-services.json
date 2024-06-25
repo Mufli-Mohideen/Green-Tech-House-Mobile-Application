@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "264801350647",
+    "firebase_url": "https://green-techhouse-default-rtdb.firebaseio.com",
+    "project_id": "green-techhouse",
+    "storage_bucket": "green-techhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264801350647:android:7853ea63dfa260381834f2",
+        "android_client_info": {
+          "package_name": "com.example.greentechhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KDznA1aGFujG4rxLxdGkZnVmTuj4yVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
