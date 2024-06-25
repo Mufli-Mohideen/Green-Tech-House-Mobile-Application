@@ -1,4 +1,6 @@
+<div align = "center">
 # GreenTech House Mobile Application
+</div>
 
 Welcome to the GreenTech House mobile application repository. This advanced application is developed using Flutter and integrates various sensors to monitor and control environmental conditions, ensuring optimal plant growth and sustainability. Firebase is used for data storage and management.
 
